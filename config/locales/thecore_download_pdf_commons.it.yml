@@ -1,0 +1,8 @@
+--- 
+it:
+  admin:
+    actions:
+      thecore_download_pdf_commons:
+        menu: Thecore Download Pdf Commons
+        breadcrumb: Thecore Download Pdf Commons
+        title: Thecore Download Pdf Commons
